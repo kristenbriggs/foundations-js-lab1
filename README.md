@@ -21,3 +21,4 @@ should also be no errors or warnings from jshint.
 command `node_modules/mocha/bin/mocha test/excercise1Tests.js` replacing 
 the number in excercise1Tests.js, with the number of the excercise you would
 like to run the tests for.
+# Lab-One
